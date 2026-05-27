@@ -1,5 +1,5 @@
 {
-  "name": "pear-apps-utils-date",
+  "name": "@tetherto/pear-apps-utils-date",
   "version": "0.0.8",
   "description": "utility for formating and sorting dates",
   "main": "index.js",
